@@ -44,6 +44,6 @@ subprojects {
             project.android.dexOptions.preDexLibraries = rootProject.ext.preDexLibs
         }
     }
-}
+} 
 
 
